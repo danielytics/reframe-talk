@@ -2,7 +2,12 @@
   "dependencies": {
     "@blueprintjs/core": "^3.19.0",
     "@blueprintjs/icons": "^3.11.0",
+    "create-react-class": "^15.6.3",
+    "highlight.js": "9.15.10",
+    "process": "^0.11.10",
     "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "react-dom": "^16.10.2",
+    "react-flip-move": "3.0.3",
+    "react-highlight.js": "1.0.7"
   }
 }
