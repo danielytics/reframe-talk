@@ -1,13 +1,3 @@
-(ns reframe-talk.app
-  (:require
-    [ajax.core :as ajax]
-    [reagent.core :as r]
-    [re-frame.core :as rf]
-    [breaking-point.core :as bp]
-    [day8.re-frame.http-fx]
-    [day8.re-frame.tracing :refer-macros [fn-traced defn-traced]]
-    ["@blueprintjs/core" :as blue]))
-
 ;; Handlers
 
 (rf/reg-event-fx
